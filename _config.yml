@@ -15,7 +15,7 @@ github_url: https://jiafeichen.github.io/xiaoyueyue.github.io
 highlighter: pygments
 paginate: 20
 
-markdown: rdiscount
+# markdown: rdiscount
 # rdiscount:
  #   extensions: ['smart']
 
