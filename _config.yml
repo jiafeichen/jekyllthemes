@@ -1,6 +1,12 @@
+title:  皓月大宝贝
 name: 小月月
 # url: http://matt.harzewski.com
 description: 小月月真漂亮呀
+keywords: 老婆最美
+encoding: "utf-8"   
+
+repository: jiafeichen.github.io/xiaoyueyue.github.io
+github_url: https://jiafeichen.github.io/xiaoyueyue.github.io
 
 permalink: /themes/:title/
 
@@ -13,4 +19,4 @@ markdown: rdiscount
 rdiscount:
     extensions: ['smart']
 
-exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile', 'vendor']
+# exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile', 'vendor']
