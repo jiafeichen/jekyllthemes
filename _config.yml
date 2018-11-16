@@ -8,15 +8,15 @@ encoding: "utf-8"
 repository: jiafeichen.github.io/xiaoyueyue.github.io
 github_url: https://jiafeichen.github.io/xiaoyueyue.github.io
 
-permalink: /themes/:title/
+# permalink: /themes/:title/
 
-gems: [jekyll-paginate]
+# gems: [jekyll-paginate]
 
 highlighter: pygments
 paginate: 20
 
 markdown: rdiscount
-rdiscount:
-    extensions: ['smart']
+# rdiscount:
+ #   extensions: ['smart']
 
 # exclude: ['README.md', 'Gemfile.lock', 'Gemfile', 'Rakefile', 'vendor']
